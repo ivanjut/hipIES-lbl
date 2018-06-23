@@ -1,4 +1,24 @@
-# HipIES
-Contains work done in internship with Lawrence Berkeley National Laboratory.
+# HiPIES
+High Performance Integrated Environment for SAXS
 
-Code base largely used to sort data collected from Advanced Light Source beamlines. 
+## About HiPIES
+
+
+## Dependencies
+* QT
+* PySide
+* PyQtGraph
+* PyFAI
+* FABIO
+* NeXpy
+* PyFITS
+* Numpy
+* Scipy
+* Pillow
+
+* Cython
+* h5py
+* pyopencl
+
+
+
