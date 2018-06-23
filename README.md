@@ -16,7 +16,6 @@ Code base largely concerned with sorting data collected from the Advanced Light 
 * Numpy
 * Scipy
 * Pillow
-
 * Cython
 * h5py
 * pyopencl
